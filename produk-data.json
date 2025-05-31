@@ -1,0 +1,33 @@
+[
+    {
+      "nama": "Dimsum Spesial",
+      "harga": "Rp 25.000",
+      "gambar": "dimsum.jpg"
+    },
+    {
+      "nama": "Pizza Cheese",
+      "harga": "Rp 45.000",
+      "gambar": "pizza.jpg"
+    },
+    {
+      "nama": "Croissant",
+      "harga": "Rp 30.000",
+      "gambar": "crossaint.jpg"
+    },
+    {
+      "nama": "Dimsum Ayam",
+      "harga": "Rp 28.000",
+      "gambar": "dimsum1.jpg"
+    },
+    {
+      "nama": "Es Teh Manis",
+      "harga": "Rp 8.000",
+      "gambar": "esteh.jpg"
+    },
+    {
+      "nama": "Coklat Bar",
+      "harga": "Rp 15.000",
+      "gambar": "coklat.jpg"
+    }
+  ]
+  
